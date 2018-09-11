@@ -1,0 +1,16 @@
+0100
+.......Enter an binary number
+.1010101010100
+0101010101010100
+100
+0
+101
+not a multiple of 4
+1000000000001
+not a multiple of 4
+.Enter an binary number
+.
+
+Finished in 0.00569 seconds (files took 0.08112 seconds to load)
+10 examples, 0 failures
+
